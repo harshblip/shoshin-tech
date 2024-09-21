@@ -1,0 +1,75 @@
+[
+    {
+        "id": 0,
+        "title": "Available Position",
+        "number": 24,
+        "need": "4 urgently needed",
+        "color": "#ffefe7",
+        "textColor": "#ff5151"
+    },
+    {
+        "id": 1,
+        "title": "Job Open",
+        "number": 10,
+        "need": "4 Active hiring",
+        "color": "#e8f0fb",
+        "textColor": "#3285f0"
+    },
+    {
+        "id": 2,
+        "title": "New Employees",
+        "number": 24,
+        "need": "4 department",
+        "color": "#fdecfa",
+        "textColor": "#ee60cf"
+    },
+    {
+        "id": 3,
+        "title": "Total Employees",
+        "number": 216,
+        "men" : 120,
+        "women": 96,
+        "growth": "+2% Past month"
+    },
+    {
+        "id": 4,
+        "title": "Talent Request",
+        "number": 16,
+        "men" : 6,
+        "women": 10,
+        "growth": "+5% Past month"
+    },
+    {
+        "id": 5,
+        "title": "Outing schedule for every department",
+        "ago": "5 Minutes ago"
+    },
+    {
+        "id": 6,
+        "title": "Meeting HR Department",
+        "ago": "Yesterday 12:30 PM"
+    },
+    {
+        "id": 7,
+        "title": "IT Department need two more talents for UX/UI Designer position",
+        "ago": "Yesterday 09:16 AM"
+    },
+    {
+        "id": 8,
+        "title": "Review candidate applications",
+        "ago": "Today - 11:30 AM",
+        "status": "priority"
+    },
+    {
+        "id": 9,
+        "title": "Interview with candidates",
+        "ago": "Today - 10:30 AM",
+        "status": "other"
+    },
+    {
+        "id": 10,
+        "title": "Short meeting with product designer from IT Departement",
+        "ago": "Today - 09:15 AM",
+        "status": "other"
+    }
+]
